@@ -4,8 +4,7 @@ I'm Tu TV
 
 🔭 I’m currently working on NodeJS and something else.
 
-My Linkedin: https://www.linkedin.com/in/tutv
-My blog: https://tutv.dev
+[Linkedin](https://www.linkedin.com/in/tutv) | [Blog](https://tutv.dev)
 
 [![Tu TV's GitHub stats](https://github-readme-stats.vercel.app/api?username=tutv&count_private=true&show_icons=true&theme=dracula)](https://github.com/tutv)
 
