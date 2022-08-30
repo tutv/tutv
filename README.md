@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tu TV
+👨‍💻 I'm Tu Tran | 6+ Exp | Looking for a new role in Germany | Full-stack Developer.
 
 🔭 I’m currently working on NodeJS and something else.
 
