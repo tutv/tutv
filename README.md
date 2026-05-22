@@ -22,13 +22,17 @@ I'm a full-stack software engineer with a focus on **backend systems**, **e-comm
 
 - 🔭 Building backend services with **Node.js + TypeScript + MongoDB** and SEO-driven web apps with **Next.js**
 - 🤖 Heavy user of **AI tools (Claude, LLMs)** — leveraging AI to automate workflows, accelerate development, and solve practical business problems day-to-day
+- 🧠 Building **RAG pipelines** with **embeddings**, **semantic search**, and vector databases (Qdrant, Pinecone, pgvector)
 - 🛍️ Experienced with **Shopify ecosystem** — custom apps, integrations (JudgeMe, Customily), and storefront development
 - ☁️ Comfortable with **AWS (CloudFront, EC2)** and **Cloudflare** — CDN configuration, prefix lists, account/security setup
 - 🧩 Strong with **MongoDB internals** — replica sets, transactions, read preferences, performance tuning
+- 🏢 Designing **multi-tenant architectures** — data isolation, tenant-aware APIs, and scalable SaaS patterns
+- ⚡ Using **Redis** for caching, rate limiting, and high-performance data access
+- 🔍 Building **full-text search** and analytics with **Elasticsearch** — indexing, aggregations, relevance tuning
 - 📨 Working with **RabbitMQ** for async workflows and message-driven architecture
 - 📚 I write clear **API documentation** and value smooth project handovers between teams
 - 🌱 Always learning — currently exploring **AI agents, MCP, and prompt engineering** alongside system design
-- 💬 Ask me about **Node.js, TypeScript, MongoDB, Shopify, AWS/Cloudflare, or building with AI**
+- 💬 Ask me about **Node.js, TypeScript, MongoDB, Shopify, AWS/Cloudflare, multi-tenant SaaS, or building with AI**
 - 📫 Reach me at **tutv95@gmail.com**
 
 ---
@@ -52,10 +56,14 @@ I'm a full-stack software engineer with a focus on **backend systems**, **e-comm
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Database & Messaging**
+**Database, Search & Messaging**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **AI & Automation**
@@ -63,6 +71,9 @@ I'm a full-stack software engineer with a focus on **backend systems**, **e-comm
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
 
 **E-commerce**
 
